@@ -1,0 +1,3 @@
+/home/luka/ClionProjects/sbt/CMakeFiles/edit_cache.dir
+/home/luka/ClionProjects/sbt/CMakeFiles/rebuild_cache.dir
+/home/luka/ClionProjects/sbt/CMakeFiles/sbt.dir
